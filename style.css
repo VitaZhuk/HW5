@@ -1,0 +1,10 @@
+.result{
+    color: pink;
+    font-size: 20px;
+    line-height: 45px;
+    font-weight: bolder;
+}
+
+#textInput{
+    width: 300px;
+}
